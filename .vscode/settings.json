@@ -1,0 +1,7 @@
+{
+  "python.testing.pytestArgs": [
+    "Attendance-Monitoring-Sysytem-Using-Face-Recogniton"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
+}
