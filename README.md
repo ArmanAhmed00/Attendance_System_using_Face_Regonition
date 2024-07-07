@@ -77,7 +77,7 @@ Welcome to the **Facial Recognition Attendance System**! This project leverages 
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the License file for more details.
 
 ## 👥 Contributors
 
