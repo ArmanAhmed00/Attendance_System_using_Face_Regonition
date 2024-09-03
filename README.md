@@ -1,4 +1,4 @@
-# Facial Recognition Attendance System
+# Attendance System Using Face Recognition
 
 ![Banner](path/to/your/banner-image.png)
 
